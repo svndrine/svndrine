@@ -1,4 +1,4 @@
-# 👩‍💻 Sandrine EBELEBE AKOUALA
+# Hi, I'm Sandrine EBELEBE AKOUALA 👋
 
 Welcome to my GitHub profile!
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🧰 Technical Skills
+## Technical Skills
 
 ### 💻 Web Development
 
@@ -37,7 +37,7 @@ Welcome to my GitHub profile!
 
 ---
 
-### 🧠 Databases & Languages
+### Databases & Languages
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
@@ -47,7 +47,7 @@ Welcome to my GitHub profile!
 
 ---
 
-### 🖥️ Systems & Tools
+### Systems & Tools
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=fff)
@@ -60,7 +60,7 @@ Welcome to my GitHub profile!
 
 ---
 
-## 🚀 Ongoing Projects
+## Ongoing Projects
 
 - 📱 Android Weather App (Kotlin)
 - 🧑‍💻 EcoDeli crowdshipping back-office – React + Tailwind
@@ -69,7 +69,7 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Cisco – Introduction to Cybersecurity (2024)  
 - Cisco – Introduction to IoT (2024)  
